@@ -135,7 +135,7 @@ body {
 }
 /* desktop */
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 630px) {
   .card {
     display: flex;
     width: 600px;
